@@ -1,3 +1,3 @@
 # Cute-Style-site
 
- Tienda de ropa, que desea brindar comodidad y glamour
+ Tienda de ropa, que desea brindar comodidad y glamour.
